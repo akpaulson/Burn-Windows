@@ -505,4 +505,4 @@ raws <- rbind(raws_040203, raws_040203_nosf,
 unique(raws$RAWS_station)
 
 #save raw RAWS data: 
-write.csv(raws, "InProcessData/raws.csv", row.names = FALSE)
+write.csv(raws, "InProcessData/raws_klamath.csv", row.names = FALSE)
