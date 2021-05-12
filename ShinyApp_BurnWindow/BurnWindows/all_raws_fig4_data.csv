@@ -1,0 +1,973 @@
+"Forest","District","RAWS_station_nmbr","RAWS_station","snow_flag","month","streak_max_chr","mean_bw","se_bw"
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jan","2 to 3 days",0.227272727272727,0.130464010094542
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jan","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jan","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Feb","2 to 3 days",0.590909090909091,0.16978584561938
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Feb","4 to 5 days",0.181818181818182,0.106830845707819
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Feb","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Mar","2 to 3 days",0.909090909090909,0.236396934051533
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Mar","4 to 5 days",0.181818181818182,0.106830845707819
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Mar","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Apr","2 to 3 days",1.22727272727273,0.286279448904412
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Apr","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","May","2 to 3 days",1.36363636363636,0.26762911716145
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","May","4 to 5 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","May","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jun","2 to 3 days",1.09090909090909,0.27055411241558
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jun","4 to 5 days",0.272727272727273,0.0971859061499725
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jun","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jul","2 to 3 days",0.5,0.170940864689457
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jul","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Jul","6 days or more",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Aug","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Sep","2 to 3 days",0.454545454545455,0.14305378044899
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Sep","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Oct","2 to 3 days",0.863636363636364,0.230709939002091
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Oct","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Oct","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Nov","2 to 3 days",0.5,0.157771273975255
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Nov","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Nov","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Dec","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","no","Dec","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jan","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Feb","2 to 3 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Feb","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Mar","2 to 3 days",0.590909090909091,0.234096688030211
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Mar","4 to 5 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Apr","2 to 3 days",1.09090909090909,0.278439458543481
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Apr","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","May","2 to 3 days",1.40909090909091,0.276489205922646
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","May","4 to 5 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","May","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jun","2 to 3 days",1.09090909090909,0.27055411241558
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jun","4 to 5 days",0.272727272727273,0.0971859061499725
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jun","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jul","2 to 3 days",0.5,0.170940864689457
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jul","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Jul","6 days or more",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Aug","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Sep","2 to 3 days",0.454545454545455,0.14305378044899
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Sep","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Oct","2 to 3 days",0.863636363636364,0.230709939002091
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Oct","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Oct","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Nov","2 to 3 days",0.409090909090909,0.156519101210311
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Nov","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40240,"Juanita","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jan","2 to 3 days",0.545454545454545,0.182897230946126
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jan","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jan","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Feb","2 to 3 days",0.818181818181818,0.169495861042874
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Feb","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Feb","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Mar","2 to 3 days",0.727272727272727,0.163588256516807
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Mar","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Mar","6 days or more",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Apr","2 to 3 days",1.27272727272727,0.280551545385622
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Apr","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Apr","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","May","2 to 3 days",1,0.254823595718813
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","May","4 to 5 days",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","May","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jun","2 to 3 days",1.5,0.306848242875602
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jun","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jul","2 to 3 days",0.272727272727273,0.0971859061499725
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jul","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Jul","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Aug","2 to 3 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Aug","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Sep","2 to 3 days",0.590909090909091,0.142018395691119
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Sep","4 to 5 days",0.181818181818182,0.106830845707819
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Sep","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Oct","2 to 3 days",0.954545454545455,0.191567612958229
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Oct","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Oct","6 days or more",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Nov","2 to 3 days",0.545454545454545,0.170652842808892
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Nov","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Nov","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Dec","2 to 3 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Dec","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","no","Dec","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jan","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Feb","2 to 3 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Mar","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Mar","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Apr","2 to 3 days",0.909090909090909,0.27055411241558
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Apr","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Apr","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","May","2 to 3 days",1,0.254823595718813
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","May","4 to 5 days",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","May","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jun","2 to 3 days",1.5,0.306848242875602
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jun","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jul","2 to 3 days",0.272727272727273,0.0971859061499725
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jul","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Jul","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Aug","2 to 3 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Sep","2 to 3 days",0.590909090909091,0.142018395691119
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Sep","4 to 5 days",0.181818181818182,0.106830845707819
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Sep","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Oct","2 to 3 days",0.954545454545455,0.191567612958229
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Oct","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Oct","6 days or more",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Nov","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Nov","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Dec","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Dec","4 to 5 days",0,0
+"Klamath National Forest","Goosenest Ranger District",40243,"Van Bremmer","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jan","2 to 3 days",0.318181818181818,0.137799082618156
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jan","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Feb","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Feb","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Mar","2 to 3 days",0.409090909090909,0.142018395691119
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Mar","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Mar","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Apr","2 to 3 days",0.727272727272727,0.22964133696753
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Apr","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Apr","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","May","2 to 3 days",0.590909090909091,0.204485320646008
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","May","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","May","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jun","2 to 3 days",0.681818181818182,0.212043894381402
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jun","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jul","2 to 3 days",0.227272727272727,0.130464010094542
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Jul","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Aug","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Aug","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Aug","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Sep","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Sep","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Oct","2 to 3 days",0.636363636363636,0.154939655135699
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Oct","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Oct","6 days or more",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Nov","2 to 3 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Nov","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Nov","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Dec","2 to 3 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Dec","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","no","Dec","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jan","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Feb","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Mar","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Mar","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Apr","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Apr","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Apr","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","May","2 to 3 days",0.409090909090909,0.125857937316941
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","May","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","May","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jun","2 to 3 days",0.681818181818182,0.212043894381402
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jun","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jul","2 to 3 days",0.227272727272727,0.130464010094542
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Jul","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Aug","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Aug","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Sep","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Sep","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Oct","2 to 3 days",0.636363636363636,0.154939655135699
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Oct","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Oct","6 days or more",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Nov","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Nov","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Dec","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40225,"Slater Butte","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jan","2 to 3 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jan","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Feb","2 to 3 days",0.272727272727273,0.14977354019053
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Feb","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Mar","2 to 3 days",0.363636363636364,0.154939655135699
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Mar","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Mar","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Apr","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Apr","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Apr","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","May","2 to 3 days",0.772727272727273,0.293742961096974
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","May","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","May","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jun","2 to 3 days",0.363636363636364,0.123888207976227
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jun","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jul","2 to 3 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Aug","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Aug","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Aug","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Sep","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Sep","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Oct","2 to 3 days",0.363636363636364,0.203278907045435
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Oct","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Oct","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Nov","2 to 3 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Nov","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Dec","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","no","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jan","2 to 3 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Feb","2 to 3 days",0.181818181818182,0.125466465334973
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Mar","2 to 3 days",0.318181818181818,0.152700987224738
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Mar","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Apr","2 to 3 days",0.181818181818182,0.106830845707819
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Apr","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Apr","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","May","2 to 3 days",0.772727272727273,0.293742961096974
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","May","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","May","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jun","2 to 3 days",0.363636363636364,0.123888207976227
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jun","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jul","2 to 3 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Aug","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Aug","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Sep","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Sep","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Oct","2 to 3 days",0.363636363636364,0.203278907045435
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Oct","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Oct","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Nov","2 to 3 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Nov","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Dec","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Happy Camp",40246,"Dutch Indy","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jan","2 to 3 days",0.363636363636364,0.154939655135699
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jan","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Feb","2 to 3 days",0.863636363636364,0.189502133598362
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Feb","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Mar","2 to 3 days",1.36363636363636,0.233043616167875
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Mar","4 to 5 days",0.363636363636364,0.123888207976227
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Mar","6 days or more",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Apr","2 to 3 days",1.63636363636364,0.26762911716145
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Apr","4 to 5 days",0.5,0.157771273975255
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Apr","6 days or more",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","May","2 to 3 days",2.04545454545455,0.290374237758038
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","May","4 to 5 days",0.409090909090909,0.125857937316941
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","May","6 days or more",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jun","2 to 3 days",1.36363636363636,0.233043616167875
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jun","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jun","6 days or more",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jul","2 to 3 days",0.5,0.170940864689457
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Aug","2 to 3 days",0.318181818181818,0.166272655083192
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Aug","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Aug","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Sep","2 to 3 days",0.545454545454545,0.170652842808892
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Sep","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Oct","2 to 3 days",0.863636363636364,0.211113872818297
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Oct","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Oct","6 days or more",0.227272727272727,0.146115920621105
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Nov","2 to 3 days",0.363636363636364,0.140275772692811
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Nov","4 to 5 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Dec","2 to 3 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","no","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jan","2 to 3 days",0.227272727272727,0.146115920621105
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Feb","2 to 3 days",0.772727272727273,0.173227800646899
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Feb","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Mar","2 to 3 days",1.40909090909091,0.234096688030211
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Mar","4 to 5 days",0.363636363636364,0.123888207976227
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Mar","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Apr","2 to 3 days",1.59090909090909,0.276489205922646
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Apr","4 to 5 days",0.5,0.157771273975255
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Apr","6 days or more",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","May","2 to 3 days",2.04545454545455,0.290374237758038
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","May","4 to 5 days",0.409090909090909,0.125857937316941
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","May","6 days or more",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jun","2 to 3 days",1.36363636363636,0.233043616167875
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jun","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jun","6 days or more",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jul","2 to 3 days",0.5,0.170940864689457
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Aug","2 to 3 days",0.318181818181818,0.166272655083192
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Aug","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Aug","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Sep","2 to 3 days",0.545454545454545,0.170652842808892
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Sep","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Oct","2 to 3 days",0.863636363636364,0.211113872818297
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Oct","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Oct","6 days or more",0.227272727272727,0.146115920621105
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Nov","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Nov","4 to 5 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Dec","2 to 3 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40218,"Oak Knoll","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jan","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jan","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Feb","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Feb","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Mar","2 to 3 days",0.5,0.183165999983031
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Mar","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Mar","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Apr","2 to 3 days",0.772727272727273,0.196636414671776
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Apr","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","May","2 to 3 days",1.04545454545455,0.232409482703549
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","May","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","May","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jun","2 to 3 days",1.13636363636364,0.273627662343138
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jun","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jul","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Jul","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Aug","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Sep","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Oct","2 to 3 days",0.454545454545455,0.14305378044899
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Oct","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Nov","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Nov","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","no","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jan","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Feb","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Mar","2 to 3 days",0.454545454545455,0.170652842808892
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Mar","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Apr","2 to 3 days",0.772727272727273,0.196636414671776
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Apr","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","May","2 to 3 days",1.04545454545455,0.232409482703549
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","May","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","May","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jun","2 to 3 days",1.13636363636364,0.273627662343138
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jun","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jul","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Jul","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Sep","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Oct","2 to 3 days",0.454545454545455,0.14305378044899
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Oct","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Nov","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Nov","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40231,"Somes Bar","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jan","2 to 3 days",0.181818181818182,0.106830845707819
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jan","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Feb","2 to 3 days",0.318181818181818,0.137799082618156
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Feb","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Mar","2 to 3 days",0.409090909090909,0.16978584561938
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Mar","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Mar","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Apr","2 to 3 days",0.590909090909091,0.125857937316941
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Apr","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","May","2 to 3 days",0.863636363636364,0.221129083626158
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","May","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","May","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jun","2 to 3 days",0.863636363636364,0.177713404979273
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jun","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jul","2 to 3 days",0.318181818181818,0.152700987224738
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jul","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Jul","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Aug","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Aug","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Sep","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Oct","2 to 3 days",0.636363636363636,0.140275772692811
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Oct","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Oct","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Nov","2 to 3 days",0.363636363636364,0.140275772692811
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Nov","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Dec","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","no","Dec","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jan","2 to 3 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Feb","2 to 3 days",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Mar","2 to 3 days",0.181818181818182,0.14167158590436
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Mar","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Apr","2 to 3 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Apr","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Apr","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","May","2 to 3 days",0.772727272727273,0.227272727272727
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","May","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","May","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jun","2 to 3 days",0.909090909090909,0.207114696344687
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jun","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jul","2 to 3 days",0.318181818181818,0.152700987224738
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jul","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Jul","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Aug","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Sep","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Oct","2 to 3 days",0.636363636363636,0.140275772692811
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Oct","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Oct","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Nov","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Nov","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Dec","4 to 5 days",0,0
+"Klamath National Forest","Happy Oak Ranger District  - Oak Knoll",40237,"Collins Baldy","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jan","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Feb","2 to 3 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Feb","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Mar","2 to 3 days",0.409090909090909,0.125857937316941
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Mar","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Apr","2 to 3 days",0.5,0.170940864689457
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Apr","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Apr","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","May","2 to 3 days",0.772727272727273,0.25424379156431
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","May","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","May","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jun","2 to 3 days",0.772727272727273,0.185302118838307
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jun","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jul","2 to 3 days",0.363636363636364,0.154939655135699
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jul","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Aug","2 to 3 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Sep","2 to 3 days",0.363636363636364,0.140275772692811
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Sep","4 to 5 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Sep","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Oct","2 to 3 days",0.590909090909091,0.182088543576174
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Oct","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Nov","2 to 3 days",0.409090909090909,0.16978584561938
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Nov","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Dec","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Dec","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","no","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jan","2 to 3 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Feb","2 to 3 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Mar","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Mar","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Apr","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Apr","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Apr","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","May","2 to 3 days",0.5,0.20544535090333
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","May","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","May","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jun","2 to 3 days",0.772727272727273,0.185302118838307
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jun","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jul","2 to 3 days",0.363636363636364,0.154939655135699
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jul","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Aug","2 to 3 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Sep","2 to 3 days",0.363636363636364,0.140275772692811
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Sep","4 to 5 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Sep","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Oct","2 to 3 days",0.590909090909091,0.182088543576174
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Oct","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Nov","2 to 3 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Nov","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Dec","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40203,"Blue Ridge","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jan","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jan","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Feb","2 to 3 days",0.636363636363636,0.140275772692811
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Feb","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Mar","2 to 3 days",0.863636363636364,0.265599497872955
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Mar","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Apr","2 to 3 days",1.40909090909091,0.243167151720207
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Apr","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","May","2 to 3 days",1.59090909090909,0.313195310687688
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","May","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","May","6 days or more",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jun","2 to 3 days",0.909090909090909,0.217314292606253
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jun","4 to 5 days",0.318181818181818,0.137799082618156
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jul","2 to 3 days",0.318181818181818,0.101639453522718
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jul","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Aug","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Sep","2 to 3 days",0.5,0.143397247403047
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Sep","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Oct","2 to 3 days",0.681818181818182,0.178817225561237
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Oct","4 to 5 days",0.318181818181818,0.152700987224738
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Nov","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Nov","4 to 5 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Dec","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","no","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jan","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jan","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Feb","2 to 3 days",0.454545454545455,0.14305378044899
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Feb","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Mar","2 to 3 days",0.727272727272727,0.247776415952453
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Mar","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Apr","2 to 3 days",1.36363636363636,0.250932930669947
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Apr","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","May","2 to 3 days",1.59090909090909,0.313195310687688
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","May","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","May","6 days or more",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jun","2 to 3 days",0.909090909090909,0.217314292606253
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jun","4 to 5 days",0.318181818181818,0.137799082618156
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jul","2 to 3 days",0.318181818181818,0.101639453522718
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jul","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Aug","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Sep","2 to 3 days",0.5,0.143397247403047
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Sep","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Oct","2 to 3 days",0.681818181818182,0.178817225561237
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Oct","4 to 5 days",0.318181818181818,0.152700987224738
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Nov","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Nov","4 to 5 days",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Dec","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40222,"Sawyers Bar","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jan","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Feb","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Feb","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Mar","2 to 3 days",0.5,0.183165999983031
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Mar","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Apr","2 to 3 days",0.772727272727273,0.196636414671776
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Apr","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","May","2 to 3 days",1.04545454545455,0.232409482703549
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","May","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","May","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jun","2 to 3 days",1.13636363636364,0.273627662343138
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jun","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jul","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Jul","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Sep","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Oct","2 to 3 days",0.454545454545455,0.14305378044899
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Oct","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Nov","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Nov","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","no","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jan","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Feb","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Mar","2 to 3 days",0.454545454545455,0.170652842808892
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Mar","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Apr","2 to 3 days",0.772727272727273,0.196636414671776
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Apr","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","May","2 to 3 days",1.04545454545455,0.232409482703549
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","May","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","May","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jun","2 to 3 days",1.13636363636364,0.273627662343138
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jun","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jul","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jul","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Jul","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Sep","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Oct","2 to 3 days",0.454545454545455,0.14305378044899
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Oct","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Nov","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Nov","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40231,"Somes Bar","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jan","2 to 3 days",0.181818181818182,0.106830845707819
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Feb","2 to 3 days",0.318181818181818,0.137799082618156
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Feb","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Mar","2 to 3 days",0.409090909090909,0.16978584561938
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Mar","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Apr","2 to 3 days",0.590909090909091,0.125857937316941
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Apr","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","May","2 to 3 days",0.863636363636364,0.221129083626158
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","May","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","May","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jun","2 to 3 days",0.863636363636364,0.177713404979273
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jun","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jul","2 to 3 days",0.318181818181818,0.152700987224738
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jul","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Jul","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Aug","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Sep","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Oct","2 to 3 days",0.636363636363636,0.140275772692811
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Oct","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Oct","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Nov","2 to 3 days",0.363636363636364,0.140275772692811
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Nov","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Dec","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","no","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jan","2 to 3 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Feb","2 to 3 days",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Mar","2 to 3 days",0.181818181818182,0.14167158590436
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Mar","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Apr","2 to 3 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Apr","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Apr","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","May","2 to 3 days",0.772727272727273,0.227272727272727
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","May","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","May","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jun","2 to 3 days",0.909090909090909,0.207114696344687
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jun","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jul","2 to 3 days",0.318181818181818,0.152700987224738
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jul","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Jul","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Aug","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Sep","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Oct","2 to 3 days",0.636363636363636,0.140275772692811
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Oct","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Oct","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Nov","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Nov","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Dec","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Dec","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Salmon River",40237,"Collins Baldy","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jan","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jan","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Feb","2 to 3 days",0.5,0.127411797859406
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Feb","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Mar","2 to 3 days",0.909090909090909,0.185036452581494
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Mar","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Mar","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Apr","2 to 3 days",0.772727272727273,0.160246268561728
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Apr","4 to 5 days",0.272727272727273,0.0971859061499725
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Apr","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","May","2 to 3 days",1.09090909090909,0.24538238477521
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","May","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","May","6 days or more",0.272727272727273,0.14977354019053
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jun","2 to 3 days",1.09090909090909,0.236396934051533
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jun","4 to 5 days",0.363636363636364,0.123888207976227
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jul","2 to 3 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jul","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Aug","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Aug","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Aug","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Sep","2 to 3 days",0.681818181818182,0.178817225561237
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Oct","2 to 3 days",0.863636363636364,0.200599259638055
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Oct","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Oct","6 days or more",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Nov","2 to 3 days",0.454545454545455,0.127025114728322
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Nov","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Dec","2 to 3 days",0.318181818181818,0.121076764250623
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Dec","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","no","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jan","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Feb","2 to 3 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Feb","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Feb","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Mar","2 to 3 days",0.636363636363636,0.168330927231373
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Mar","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Apr","2 to 3 days",0.636363636363636,0.154939655135699
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Apr","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Apr","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","May","2 to 3 days",1.13636363636364,0.248767129284311
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","May","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","May","6 days or more",0.272727272727273,0.14977354019053
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jun","2 to 3 days",1.09090909090909,0.236396934051533
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jun","4 to 5 days",0.363636363636364,0.123888207976227
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jun","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jul","2 to 3 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jul","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Jul","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Aug","2 to 3 days",0.181818181818182,0.106830845707819
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Aug","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Aug","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Sep","2 to 3 days",0.681818181818182,0.178817225561237
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Sep","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Sep","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Oct","2 to 3 days",0.863636363636364,0.200599259638055
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Oct","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Oct","6 days or more",0.136363636363636,0.0996846661443243
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Nov","2 to 3 days",0.409090909090909,0.107290335336742
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Nov","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Dec","2 to 3 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Dec","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40239,"Quartz Hill","yes","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jan","2 to 3 days",0.227272727272727,0.146115920621105
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Feb","2 to 3 days",0.772727272727273,0.207352077163396
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Feb","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Feb","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Mar","2 to 3 days",0.909090909090909,0.185036452581494
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Mar","4 to 5 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Mar","6 days or more",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Apr","2 to 3 days",1.31818181818182,0.282125234207197
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Apr","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Apr","6 days or more",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","May","2 to 3 days",1,0.20806259464412
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","May","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","May","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jun","2 to 3 days",0.863636363636364,0.189502133598362
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jun","4 to 5 days",0.318181818181818,0.101639453522718
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jul","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jul","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Jul","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Aug","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Sep","2 to 3 days",0.590909090909091,0.156519101210311
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Sep","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Oct","2 to 3 days",0.863636363636364,0.189502133598362
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Oct","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Nov","2 to 3 days",0.409090909090909,0.16978584561938
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Nov","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Dec","2 to 3 days",0.272727272727273,0.117363131703255
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","no","Dec","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jan","2 to 3 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jan","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jan","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Feb","2 to 3 days",0.181818181818182,0.14167158590436
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Feb","4 to 5 days",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Feb","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Mar","2 to 3 days",0.363636363636364,0.123888207976227
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Mar","4 to 5 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Mar","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Apr","2 to 3 days",1,0.27128043348733
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Apr","4 to 5 days",0.181818181818182,0.0841654636156865
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Apr","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","May","2 to 3 days",1,0.20806259464412
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","May","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","May","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jun","2 to 3 days",0.863636363636364,0.189502133598362
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jun","4 to 5 days",0.318181818181818,0.101639453522718
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jun","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jul","2 to 3 days",0.272727272727273,0.134547794527446
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jul","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Jul","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Aug","2 to 3 days",0.136363636363636,0.0748867700952649
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Aug","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Sep","2 to 3 days",0.590909090909091,0.156519101210311
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Sep","4 to 5 days",0.227272727272727,0.0914486154730632
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Sep","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Oct","2 to 3 days",0.818181818181818,0.169495861042874
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Oct","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Oct","6 days or more",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Nov","2 to 3 days",0.318181818181818,0.137799082618156
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Nov","4 to 5 days",0.0909090909090909,0.0909090909090909
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Nov","6 days or more",0,0
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Dec","2 to 3 days",0.227272727272727,0.112658127096737
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Dec","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Klamath National Forest","Salmon Scott River Ranger District - Scott River",40245,"Callahan 2","yes","Dec","6 days or more",0,0
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jan","2 to 3 days",1.09090909090909,0.196386081769935
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jan","4 to 5 days",0.0909090909090909,0.0627332326674867
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jan","6 days or more",0.136363636363636,0.0996846661443243
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Feb","2 to 3 days",1.77272727272727,0.23660493843322
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Feb","4 to 5 days",0.272727272727273,0.0971859061499725
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Feb","6 days or more",0.0909090909090909,0.0627332326674867
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Mar","2 to 3 days",1.63636363636364,0.242153528501247
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Mar","4 to 5 days",0.409090909090909,0.125857937316941
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Mar","6 days or more",0.318181818181818,0.121076764250623
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Apr","2 to 3 days",2,0.29424494316825
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Apr","4 to 5 days",0.681818181818182,0.152700987224738
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Apr","6 days or more",0.227272727272727,0.0914486154730632
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","May","2 to 3 days",1.59090909090909,0.276489205922646
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","May","4 to 5 days",0.590909090909091,0.156519101210311
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","May","6 days or more",0.590909090909091,0.156519101210311
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jun","2 to 3 days",1.59090909090909,0.234096688030211
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jun","4 to 5 days",0.318181818181818,0.121076764250623
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jun","6 days or more",0.318181818181818,0.137799082618156
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jul","2 to 3 days",0.363636363636364,0.154939655135699
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jul","4 to 5 days",0.272727272727273,0.0971859061499725
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Jul","6 days or more",0.272727272727273,0.134547794527446
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Aug","2 to 3 days",0.409090909090909,0.156519101210311
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Aug","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Aug","6 days or more",0.0909090909090909,0.0627332326674867
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Sep","2 to 3 days",0.5,0.170940864689457
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Sep","4 to 5 days",0.0454545454545455,0.0454545454545455
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Sep","6 days or more",0.0909090909090909,0.0627332326674867
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Oct","2 to 3 days",1.36363636363636,0.28334317180872
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Oct","4 to 5 days",0.5,0.127411797859406
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Oct","6 days or more",0.136363636363636,0.0748867700952649
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Nov","2 to 3 days",1.54545454545455,0.243773302602616
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Nov","4 to 5 days",0.590909090909091,0.142018395691119
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Nov","6 days or more",0.0454545454545455,0.0454545454545455
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Dec","2 to 3 days",1,0.186096842079694
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Dec","4 to 5 days",0.136363636363636,0.0748867700952649
+"Lake Tahoe Basin","Lake Tahoe Basin",NA,"Baron/Markleeville","no","Dec","6 days or more",0,0
